@@ -21,3 +21,4 @@ class Example {
     }
 }
 ```
+![./foto_etiquetada.jpg](Example image with region selections and labels)
