@@ -21,4 +21,4 @@ class Example {
     }
 }
 ```
-![./foto_etiquetada.jpg](Example image with region selections and labels)
+![https://github.com/baskeboler/imgannotations/raw/master/foto_etiquetada.jpg](Example image with region selections and labels)
